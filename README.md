@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Advanced Machine Learning, Deep Learning, and MLOps**
 - 👯 I’m looking to collaborate on **Data-Driven Projects**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/vijaykumarkatherla)
-- 📝 I write blogs on [Medium](https://medium.com/@yourusername)
+- 📝 I write blogs on [Medium](https://medium.com/@yourusername) *(optional)*
 - 💬 Ask me about **Python, Pandas, Numpy, Scikit-learn, SQL, Data Visualization**
 - 📫 How to reach me: **your.email@example.com**
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/vijaykumarkatherla)
@@ -31,21 +31,10 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaykumarkatherla&layout=compact&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vijaykumarkatherla&layout=compact&langs_count=6" alt="Top Languages" />
 </p>
 
 ---
 
-### 🧰 Projects I’ve Built
-
-[![Library Management](https://github-readme-stats.vercel.app/api/pin/?username=vijaykumarkatherla&repo=library-management)](https://github.com/vijaykumarkatherla/library-management)
-[![ATM Simulation](https://github-readme-stats.vercel.app/api/pin/?username=vijaykumarkatherla&repo=ATMSimualtion)](https://github.com/vijaykumarkatherla/ATMSimualtion)
-
-[![E-Library System](https://github-readme-stats.vercel.app/api/pin/?username=vijaykumarkatherla&repo=e-library-system)](https://github.com/vijaykumarkatherla/e-library-system)
-[![Hospital Management](https://github-readme-stats.vercel.app/api/pin/?username=vijaykumarkatherla&repo=hospitalmanege)](https://github.com/vijaykumarkatherla/hospitalmanege)
-
-[![Currency Converter](https://github-readme-stats.vercel.app/api/pin/?username=vijaykumarkatherla&repo=currencyconverter.py)](https://github.com/vijaykumarkatherla/currencyconverter.py)
-[![Spring Boot](https://github-readme-stats.vercel.app/api/pin/?username=vijaykumarkatherla&repo=SpringBoot)](https://github.com/vijaykumarkatherla/SpringBoot)
-
-[![Problem Solving](https://github-readme-stats.vercel.app/api/pin/?username=vijaykumarkatherla&repo=problems)](https://github.com/vijaykumarkatherla/problems)
-[![Personal Repo](https://github-readme-stats.vercel.app/api/pin/?username=vijaykumarkatherla&repo=vijayrepo)](https://github.com/vijaykumarkatherla/vijayrepo)
+### 🔝 Top Repository
+[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=vijaykumarkatherla&repo=your-best-project)](https://github.com/vijaykumarkatherla/your-best-project)
