@@ -15,7 +15,7 @@
 
 ### 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vijaykumarkatherla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/katherla-vijay-kumar-566b76265/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:vijaykumarkatherla@gmail.com)
 
 ---
