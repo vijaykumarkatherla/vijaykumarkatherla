@@ -28,7 +28,7 @@ An inventory management system built with Spring Boot, PostgreSQL, and Thymeleaf
 ### 🔹 [bankingApp](https://github.com/vijaykumarkatherla/Bankapp)
 A basic banking system developed using Spring Boot and PostgreSQL, featuring customer registration, balance check, and transactions.
 
-### 🔹 [Library-Management-System](https://github.com/vijaykumarkatherla/Library-Management-System)
+### 🔹 [Library-Management-System](https://github.com/vijaykumarkatherla/library-management)
 A console-based Java application managing library book data, issued/returned books, and users with file persistence.
 
 ### 🔹 [ATM Simulation](https://github.com/vijaykumarkatherla/ATMSimualtion)  
