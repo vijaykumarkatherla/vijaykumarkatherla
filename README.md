@@ -22,7 +22,7 @@ I'm a passionate Java and Spring Boot developer with a strong interest in backen
 
 Here are some of the notable repositories I’ve been working on:
 
-### 🔹 [Ecommerce Website](https://github.com/vijaykumarkatherla/Ecommerce Website)
+### 🔹 [Ecommerce Website](https://github.com/vijaykumarkatherla/Ecommerce-Website)
 An inventory management system built with Spring Boot, PostgreSQL, and Thymeleaf. Supports CRUD operations and category filtering.
 
 ### 🔹 [bankingApp](https://github.com/vijaykumarkatherla/Bankapp)
