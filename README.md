@@ -6,12 +6,17 @@ I'm a passionate Java and Spring Boot developer with a strong interest in backen
 
 ## 🚀 Tech Stack & Interests
 
-- 👨‍💻 **Languages:** Java, Python, HTML, CSS, JavaScript
-- 🧠 **Frameworks & Tools:** Spring Boot, PostgreSQL, IntelliJ, Git, PgAdmin
-- 📊 **Interests:** Backend Development, REST APIs, Database Design, Full Stack Projects
-- 🌱 Currently learning: Spring Security, Microservices, React.js
+- 👨‍💻 **Languages:** Java, SQL, Python  
+- 🧠 **Frameworks & Tools:**  
+  - **Development:** Spring Boot, IntelliJ IDEA, Git, PgAdmin  
+  - **Database:** PostgreSQL  
+  - **Data Analysis & Visualization:** Power BI, Tableau, Microsoft Excel  
 
----
+- 📊 **Interests:**  
+  Backend Development, RESTful APIs, Database Design, Full Stack Projects,  
+  Data Analysis & Visualization, Java Console Applications
+
+- 🌱 **Currently Learning:** Spring Security, Microservices Architecture, Advanced SQL
 
 ## 🧩 Featured Projects
 
@@ -20,17 +25,18 @@ Here are some of the notable repositories I’ve been working on:
 ### 🔹 [Ecommerce Website](https://github.com/vijaykumarkatherla/Ecommerce Website)
 An inventory management system built with Spring Boot, PostgreSQL, and Thymeleaf. Supports CRUD operations and category filtering.
 
-### 🔹 [bankingApp](https://github.com/vijaykumarkatherla/bankingApp)
+### 🔹 [bankingApp](https://github.com/vijaykumarkatherla/Bankapp)
 A basic banking system developed using Spring Boot and PostgreSQL, featuring customer registration, balance check, and transactions.
 
 ### 🔹 [Library-Management-System](https://github.com/vijaykumarkatherla/Library-Management-System)
 A console-based Java application managing library book data, issued/returned books, and users with file persistence.
 
-### 🔹 [spring-todo-app](https://github.com/vijaykumarkatherla/spring-todo-app)
-A to-do list web application using Spring Boot, Thymeleaf, and PostgreSQL with full CRUD and authentication.
+### 🔹 [ATM Simulation](https://github.com/vijaykumarkatherla/ATMSimualtion)  
+A Java-based console application that simulates basic ATM operations such as balance inquiry, deposit, withdrawal, and PIN validation. It demonstrates core Java concepts like classes, methods, conditionals, and user interaction via Scanner.
 
-### 🔹 [tic-tac-toe-java](https://github.com/vijaykumarkatherla/tic-tac-toe-java)
-A simple Java implementation of Tic-Tac-Toe with a terminal-based UI. Great for demonstrating OOP concepts.
+### 🔹 [Currency Converter](https://github.com/vijaykumarkatherla/currencyconverter.py)  
+A Python GUI application that converts currency values between different countries using real-time exchange rates. Built using `tkinter` for the interface and `requests` for fetching exchange data via API.
+
 
 ---
 
