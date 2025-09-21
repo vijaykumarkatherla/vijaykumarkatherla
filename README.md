@@ -51,7 +51,7 @@ A Python GUI application that converts currency values between different countri
 
 - 📧 Email: vijaykumarkatherla@gmail.com
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/katherla-vijay-kumar-566b76265/)
-- 🌐 Portfolio (Coming Soon)
+- 🌐 Portfolio (https://vijaykumarkatherla.wixsite.com/portfolio)
 
 ---
 
